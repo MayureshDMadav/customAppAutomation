@@ -342,7 +342,7 @@ const userDataDir = "./my-profile";
 
         console.log(jsonResponse);
       } catch (e) {
-        console.log("Redirecting to page Failed");
+        console.log("Redirecting to page Failed or Login Required !!!");
       }
     }
   } catch (error) {
