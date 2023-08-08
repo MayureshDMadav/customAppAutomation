@@ -1,0 +1,9 @@
+[
+  {
+    "filter_Store": "input[type='text']",
+    "login_Button": "button[type='submit']",
+    "create_customapp": "#settings-body > div > div.Polaris-Page--divider_myoiu > div > div.tbU6W > div > div > div > div > div:nth-child(4) > div > a",
+    "allow_custom_app": "#settings-body > div > div > div.Polaris-Layout_sl20u > div:nth-child(3) > div > div > div > div:nth-child(2) > button",
+    "app_name_Input": ".Polaris-Modal-Dialog_n3qgo input[type='text']"
+  }
+]
